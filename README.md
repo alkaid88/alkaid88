@@ -1,8 +1,8 @@
-     dBPdBPdBP dBBBP  dBP    dBBBP  dBBBBP dBBBBBBb  dBBBP 
-                                   dB'.BP   '   dB'        
-   dBPdBPdBP dBBP   dBP    dBP    dB'.BP dB'dB'dB' dBBP    
-  dBPdBPdBP dBP    dBP    dBP    dB'.BP dB'dB'dB' dBP      
- dBBBBBBBP dBBBBP dBBBBP dBBBBP dBBBBP dB'dB'dB' dBBBBP
+ __     __     ______     __         ______     ______     __    __     ______    
+/\ \  _ \ \   /\  ___\   /\ \       /\  ___\   /\  __ \   /\ "-./  \   /\  ___\   
+\ \ \/ ".\ \  \ \  __\   \ \ \____  \ \ \____  \ \ \/\ \  \ \ \-./\ \  \ \  __\   
+ \ \__/".~\_\  \ \_____\  \ \_____\  \ \_____\  \ \_____\  \ \_\ \ \_\  \ \_____\ 
+  \/_/   \/_/   \/_____/   \/_____/   \/_____/   \/_____/   \/_/  \/_/   \/_____/
  
 - I’m @alkaid88
 - I’m interested in Programming, Math, Physics, Gaming, Cybersecurity, Networking, OS development (but this is hard and I'm just at the beginning)
