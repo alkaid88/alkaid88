@@ -1,7 +1,7 @@
-- I’m @alkaid88
-- I’m interested in Programming, Math, Physics, Gaming, Cybersecurity, Networking, OS development (but this is hard and I'm just at the beginning)
-- I’m currently learning C++, WebDev(HTML, CSS, JavaScript, Bootstrap), Python and in the future Java or C# (I've not decided yet)
-- I’m looking to collaborate on everything that is interesting ;d
+- I love old skool gaming...
+- I whould like to make a simple game like tetris with C++
+- So I'm going to do it :D
+- 
 - How to reach me: -mail: alkaid1988@protonmail.com
 
 <!---
