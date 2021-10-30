@@ -1,7 +1,7 @@
 (don't) README.md
 - print("Hel1o, WorId!")
 
-- Hel1o, WorId! 
+- Hel1o, WorId! <!--- This needs to be changed cuz cringe lvl 100 --->
 - 
 - <!--- My mind is lost --->
 - 
